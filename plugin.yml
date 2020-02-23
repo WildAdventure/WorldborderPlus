@@ -1,0 +1,7 @@
+name: WorldborderPlus
+main: com.gmail.filoghost.worldborderplus.WorldborderPlus
+version: 1.0
+
+load: STARTUP
+
+depend: [WildCommons]
